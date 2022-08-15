@@ -9,7 +9,7 @@ const chalk = require("chalk")
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
@@ -31,16 +31,16 @@ global.socialm = "GitHub: RimuruBotMd" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "SiestaMD" //ur bot name
+global.botname = "Futube MD" //ur bot name
 global.websitex = "https://youtube.com/channel/Sabilofc" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By SiestaMd"
-global.author = "SiestaBotz"
+global.packname = "Sticker By Futube Md"
+global.author = "Futube Botz"
 global.themeemoji = "📀"
 global.reactmoji = "🗿"
 global.ownertag = ['SabilOfc'] //ur owner tag
 global.ownernummenu = ['6288980870067'] //ur owner number in menu and all
-global.watermark = "SiestaBotz" //ur watermark
+global.watermark = "Futube Botz" //ur watermark
 global.botscript = "Beli Atuh Om😣"
 global.linkz1 = ""
 global.linkz2 = ""
